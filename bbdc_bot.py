@@ -9,8 +9,8 @@ from random import randint
 
 browser = webdriver.Chrome()
 
-username = '670F06112003'
-password = '200306'
+username = 'INSERT USERNAME'
+password = 'INSERT PASSWORD'
 
 browser.get('https://booking.bbdc.sg/#/login?redirect=%2Fhome%2Findex')
 
